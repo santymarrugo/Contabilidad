@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance numeros y saldos una moneda dolares.</description>
+   <name>Balance NYS-1M-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a208203-00ad-48fe-ad6c-27715ed5ef08</testCaseGuid>
+</TestCaseEntity>

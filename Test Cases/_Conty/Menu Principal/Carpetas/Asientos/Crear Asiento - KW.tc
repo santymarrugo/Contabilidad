@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Este tes se desarolla para crear varios asientos y de esta forma comprobar el correcto funcionamiento de las opciones de la Toolbar de asientos.</description>
+   <name>Crear Asiento - KW</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46bc7e5a-28aa-4e8f-a7b2-bf7a96b0a1d9</testCaseGuid>
+</TestCaseEntity>

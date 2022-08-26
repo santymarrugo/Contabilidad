@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance totales por grupo una moneda dolares.</description>
+   <name>Balance TPG-1M-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a709607-4461-484d-9d2b-61512e15f31b</testCaseGuid>
+</TestCaseEntity>

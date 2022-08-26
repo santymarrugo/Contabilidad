@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Subdiario libro de ventas en pesos.</description>
+   <name>Subdiario L-V-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbfa7f88-20c8-4f30-856e-4dff4469ed16</testCaseGuid>
+</TestCaseEntity>

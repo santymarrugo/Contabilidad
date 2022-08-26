@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor por cliente o proveedor una moneda en dolares sin filtro de RUT.</description>
+   <name>Mayor COP-1M-D-SinFiltroRUT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd14644a-43fb-4084-bbfd-aa9d769b3510</testCaseGuid>
+</TestCaseEntity>

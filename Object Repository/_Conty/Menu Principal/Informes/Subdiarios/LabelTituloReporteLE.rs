@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LabelTituloReporteLE</name>
+   <tag></tag>
+   <elementGuidId>35dd01fe-b9b2-4de3-927b-7f0d9e27fe05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[84]/div//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[80]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[80]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

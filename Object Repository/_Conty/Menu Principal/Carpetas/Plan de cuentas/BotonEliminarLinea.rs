@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonEliminarLinea</name>
+   <tag></tag>
+   <elementGuidId>e48c1f8c-41e8-40b2-8842-78c9fa777141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[@id='ContainerPage']/div[2]/div[1]/div[1]/button[10]/i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//body/div[@id='ContainerPage']/div[2]/div[1]/div[1]/button[10]/i[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test para verificar los dos impuestos que crean para correr el proceso de cierre y apertura, en este caso el 8 y el 9 respectivamente.</description>
+   <name>Verificar impuestos y percepciones</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e63b754f-aa89-4d10-83c8-a896e4dec981</testCaseGuid>
+</TestCaseEntity>

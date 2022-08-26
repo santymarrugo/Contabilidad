@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HaberPesosTransporte</name>
+   <tag></tag>
+   <elementGuidId>b464d55a-8cea-4526-bc3b-da7bb2583a61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[1]/div/div/div[1]/div/div[14]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[3]/div[1]/div/div/div[1]/div/div[14]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

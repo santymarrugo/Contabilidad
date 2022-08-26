@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor resumido por mes 2 monedas en dolares y pesos.</description>
+   <name>Mayor RPM-2M-DP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6f0160a-de16-4139-a612-c10a9ea9a983</testCaseGuid>
+</TestCaseEntity>

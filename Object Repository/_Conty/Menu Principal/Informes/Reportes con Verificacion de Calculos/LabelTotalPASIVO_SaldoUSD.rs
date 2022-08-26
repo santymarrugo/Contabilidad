@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LabelTotalPASIVO_SaldoUSD</name>
+   <tag></tag>
+   <elementGuidId>178466ac-1436-456c-9bf1-5eae592e44da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[42]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[42]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

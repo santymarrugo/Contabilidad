@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ValorTotalCreditosMA-EUR</name>
+   <tag></tag>
+   <elementGuidId>2f4fcd7e-7375-4e16-a1a8-ba4d97de2dfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[49]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[49]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

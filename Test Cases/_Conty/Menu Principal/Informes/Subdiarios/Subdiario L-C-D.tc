@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Subdiario libro de boletas en dolares.</description>
+   <name>Subdiario L-C-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db82e4cc-290a-408c-86eb-d86f9afd5cad</testCaseGuid>
+</TestCaseEntity>

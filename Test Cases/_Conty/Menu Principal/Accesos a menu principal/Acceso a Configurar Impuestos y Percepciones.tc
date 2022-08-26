@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acceso a Configurar Impuestos y Percepciones</name>
+   <tag>impuestos</tag>
+   <comment></comment>
+   <testCaseGuid>6a5a45b8-2062-48f5-a12a-fe40206655c6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ValorTotalGeneralEUR-SubD-L-I-E</name>
+   <tag></tag>
+   <elementGuidId>26848cae-4ba9-4579-92f5-05a70b59bd1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[59]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[59]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

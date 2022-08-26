@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>DropDown</description>
+   <name>DDTipoDeBalance</name>
+   <tag></tag>
+   <elementGuidId>10126ca0-e21f-40d1-b52f-ccb71fa38c85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='popup-balance-tipoBalance']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//select[@id='popup-balance-tipoBalance']</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test para correr el proceso automatico de Cierre y Apertura, en este caso tambien se contempla la validacion de que si el proceso de resultado no se ha corrido se muestre un popup indicando esto.</description>
+   <name>Proceso de cierre y apertura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85a27b16-4559-4c18-8f8f-df284c201f24</testCaseGuid>
+</TestCaseEntity>

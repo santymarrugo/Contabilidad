@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance estado de situacion una moneda dolares.</description>
+   <name>Balance EDS-1M-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7fb0388-f537-4588-956a-a4e5987d6fc6</testCaseGuid>
+</TestCaseEntity>

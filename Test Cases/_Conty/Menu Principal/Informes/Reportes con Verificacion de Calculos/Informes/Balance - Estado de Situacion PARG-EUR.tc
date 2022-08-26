@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test donde se generara un reporte, y posterior se deberan validar los calculos del mismo y asegurar que se esten haciendo de forma correcta.</description>
+   <name>Balance - Estado de Situacion PARG-EUR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34af4322-b978-4d79-b3bd-6b9072efd64a</testCaseGuid>
+</TestCaseEntity>

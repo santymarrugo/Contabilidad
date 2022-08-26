@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test que verifica los valores de los asientos generados al momento de correr el proceso de cierre y apertura.</description>
+   <name>Verificar cierre y apertura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>257b5f6c-aed6-42f4-aea0-ceebab3d1dbc</testCaseGuid>
+</TestCaseEntity>

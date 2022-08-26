@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonAceptarMensajeResultadoExitoso</name>
+   <tag></tag>
+   <elementGuidId>7bfacd14-519f-4f53-aba3-f3399154d1d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[@id='ContainerPage']/div[2]/div[4]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/button[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//body/div[@id='ContainerPage']/div[2]/div[4]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/button[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

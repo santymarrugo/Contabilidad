@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LabelTotalACTIVO_SaldoPARG</name>
+   <tag></tag>
+   <elementGuidId>a7760de6-e137-4a60-b53b-987a1294bdbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[24]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;reportViewer1&quot;]/div/div[2]/div[2]/div[1]/div[3]/div[1]/div/div/div[1]/div/div[24]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

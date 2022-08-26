@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Subdiario Caja ingresos y egresos en dolares.</description>
+   <name>Subdiario CIE-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>140c14d6-efa6-4449-868f-270e90b98e96</testCaseGuid>
+</TestCaseEntity>

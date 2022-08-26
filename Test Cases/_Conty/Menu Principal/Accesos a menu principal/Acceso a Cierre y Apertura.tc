@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acceso a Cierre y Apertura</name>
+   <tag>cierre</tag>
+   <comment></comment>
+   <testCaseGuid>29656b1c-ce1d-4e0e-b112-ee8d8038e83c</testCaseGuid>
+</TestCaseEntity>

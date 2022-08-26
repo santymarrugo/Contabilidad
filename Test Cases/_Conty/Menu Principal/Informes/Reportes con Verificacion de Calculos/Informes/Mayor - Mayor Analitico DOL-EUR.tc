@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor analitico a dos monedas dolares y euros.</description>
+   <name>Mayor - Mayor Analitico DOL-EUR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>deaed235-8e26-41bb-b36a-a4ed93f71aed</testCaseGuid>
+</TestCaseEntity>

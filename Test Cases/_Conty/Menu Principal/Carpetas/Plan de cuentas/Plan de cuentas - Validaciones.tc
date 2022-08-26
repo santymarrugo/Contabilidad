@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC donde se prueba la creacion de cuentas.</description>
+   <name>Plan de cuentas - Validaciones</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c71dc436-a695-4afd-82dc-0ce4a2dc33d8</testCaseGuid>
+</TestCaseEntity>

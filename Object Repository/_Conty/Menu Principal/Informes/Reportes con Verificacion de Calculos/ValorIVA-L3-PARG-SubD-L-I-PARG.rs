@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ValorIVA-L3-PARG-SubD-L-I-PARG</name>
+   <tag></tag>
+   <elementGuidId>fe2ec191-1be1-4c2a-a232-0c7be92a8e3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[1]/div/div/div[1]/div/div[39]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[3]/div[1]/div/div/div[1]/div/div[39]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

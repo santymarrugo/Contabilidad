@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Subdiario Caja ingresos y egresos en pesos.</description>
+   <name>Subdiario CIE-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>032e46da-0b4e-4a95-974b-f2ac6a694c2f</testCaseGuid>
+</TestCaseEntity>

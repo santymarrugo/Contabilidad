@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonAceptarPopupCierreyAperturaExitoso</name>
+   <tag></tag>
+   <elementGuidId>ce03e557-30a9-4f87-8da5-fe0cd59e9b3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(@onclick,'CerrarPopUpAviso()')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//button[contains(@onclick,'CerrarPopUpAviso()')]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>exentoMontoPesos</name>
+   <tag></tag>
+   <elementGuidId>0a992ac5-5b44-4399-8d71-05f3dfdd4089</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[3]/div[1]/div/div/div[1]/div/div[103]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[3]/div[1]/div/div/div[1]/div/div[103]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

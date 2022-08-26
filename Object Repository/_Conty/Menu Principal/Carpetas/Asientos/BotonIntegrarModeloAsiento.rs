@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonIntegrarModeloAsiento</name>
+   <tag></tag>
+   <elementGuidId>7365fc10-f4bf-4c9d-bd82-159164633aaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[@id='ContainerPage']/div[2]/div[1]/div[1]/button[8]/i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//body/div[@id='ContainerPage']/div[2]/div[1]/div[1]/button[8]/i[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Subdiario libro de ventas en dolares.</description>
+   <name>Subdiario L-V-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83c5dafb-88aa-48a1-af5a-2c5ea88020bd</testCaseGuid>
+</TestCaseEntity>

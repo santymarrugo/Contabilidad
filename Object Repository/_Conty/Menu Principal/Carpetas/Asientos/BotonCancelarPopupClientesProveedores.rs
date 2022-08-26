@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonCancelarPopupClientesProveedores</name>
+   <tag></tag>
+   <elementGuidId>dd6f9a7d-eef4-454e-bd31-5feb145b8145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[@id='ContainerPage']/div[2]/div[4]/div[9]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//body/div[@id='ContainerPage']/div[2]/div[4]/div[9]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

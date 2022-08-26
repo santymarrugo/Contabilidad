@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance movimientos y saldos una moneda pesos.</description>
+   <name>Balance MYS-1M-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab216c78-9e56-4a03-8163-0ed4c94d892f</testCaseGuid>
+</TestCaseEntity>

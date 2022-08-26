@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor por cliente o proveedor dos monedas en dolares y pesos sin filtro de RUT.</description>
+   <name>Mayor COP-2M-DP-SinFiltroRUT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fd739fa-03fe-4c7d-8321-4a706bffb8f7</testCaseGuid>
+</TestCaseEntity>

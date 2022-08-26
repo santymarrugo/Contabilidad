@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Subdiario libro de egresos en dolares.</description>
+   <name>Subdiario L-E-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a19bf111-0393-499e-9826-af8e1258fcda</testCaseGuid>
+</TestCaseEntity>

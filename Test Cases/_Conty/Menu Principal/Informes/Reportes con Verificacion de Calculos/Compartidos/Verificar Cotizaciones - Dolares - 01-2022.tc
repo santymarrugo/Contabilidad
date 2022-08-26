@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Este test tiene como fin verificar que las cotizaciones del mes de asiento esten completas, es decir, que todos los meses tengan cotizacion.
+EN DOLARES.</description>
+   <name>Verificar Cotizaciones - Dolares - 01-2022</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f93b5e27-7e1b-41b1-9e83-f0d6d92d7b5b</testCaseGuid>
+</TestCaseEntity>

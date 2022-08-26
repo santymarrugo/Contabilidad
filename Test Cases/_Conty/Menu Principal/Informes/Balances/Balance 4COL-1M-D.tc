@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance 4 columnas una moneda dolares.</description>
+   <name>Balance 4COL-1M-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>713dcf26-305d-4534-9767-93b969bf57d7</testCaseGuid>
+</TestCaseEntity>

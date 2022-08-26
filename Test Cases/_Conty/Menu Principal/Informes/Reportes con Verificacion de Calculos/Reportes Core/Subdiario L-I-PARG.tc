@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Subdiario libro de boletas en pesos argentinos.</description>
+   <name>Subdiario L-I-PARG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6a63da9-dac5-4c78-9a90-8ecefec9b80d</testCaseGuid>
+</TestCaseEntity>

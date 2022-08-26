@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonEliminarMoneda</name>
+   <tag></tag>
+   <elementGuidId>38fdd91c-7491-48a7-8dd8-a2901ad34134</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//i[@class='material-icons'][contains(.,'clear')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>(//i[@class='material-icons'][contains(.,'clear')])[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

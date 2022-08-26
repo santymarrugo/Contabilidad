@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Diario analitico dos monedas en pesos y dolares.</description>
+   <name>Diario A-2M-PD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b91025a0-bfd5-4605-a3f1-a2c913bd89cb</testCaseGuid>
+</TestCaseEntity>

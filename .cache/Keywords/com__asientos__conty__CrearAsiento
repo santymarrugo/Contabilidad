@@ -1,0 +1,36 @@
+{
+  "keywordFileContentHash": "43C6D019A374A2AD36CFF4833F241EDF",
+  "keywordClasses": [
+    {
+      "name": "com.asientos.conty.CrearAsiento",
+      "keywordMethods": [
+        {
+          "name": "asiento_1",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "asiento_2",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "asiento_3",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "asiento_4",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "asiento_5",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

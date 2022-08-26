@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance completo dos monedas pesos y dolares.</description>
+   <name>Balance COM-2M-PD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa40762e-fcfa-4661-9421-94f4023738cc</testCaseGuid>
+</TestCaseEntity>

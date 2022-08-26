@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Celda1</name>
+   <tag></tag>
+   <elementGuidId>56ee68a9-2941-4b7c-93ab-9bb1b252daeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;PlanDeCuentasHandTableContainer&quot;]/div[1]/div/div/div/table/tbody/tr[1]/td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;PlanDeCuentasHandTableContainer&quot;]/div[1]/div/div/div/table/tbody/tr[1]/td[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor por cliente o proveedor una moneda en pesos con filtro de RUT.</description>
+   <name>Mayor COP-1M-P-ConFiltroRUT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c050e28a-5d8a-4bb8-bcf4-906b2d0aef88</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ingreso con usuario invalido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31dfd2d2-5181-487c-8370-c0d3e2edee54</testCaseGuid>
+</TestCaseEntity>

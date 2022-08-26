@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Este test tiene como fin verificar que las cotizaciones del mes de asiento esten completas, es decir, que todos los meses tengan cotizacion.
+EN EUROS.</description>
+   <name>Verificar Cotizaciones - Euros - 01-2022</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>932ecf15-fe07-400b-b115-01b33a971274</testCaseGuid>
+</TestCaseEntity>

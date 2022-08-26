@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonCancelarPopupCrearCuenta</name>
+   <tag></tag>
+   <elementGuidId>645e8499-b906-413c-9d4c-047b6a91032f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[@id='popUpCrearCuenta']/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//body/div[@id='popUpCrearCuenta']/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

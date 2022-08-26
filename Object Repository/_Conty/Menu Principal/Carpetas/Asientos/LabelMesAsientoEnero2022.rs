@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LabelMesAsientoEnero2022</name>
+   <tag></tag>
+   <elementGuidId>e01b8254-6ad5-4bcb-a16a-f39003bb920a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='radioPopupSelecionEsAsiento'][contains(.,'1/2022')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//span[@class='radioPopupSelecionEsAsiento'][contains(.,'1/2022')]</value>
+   </webElementXpaths>
+</WebElementEntity>

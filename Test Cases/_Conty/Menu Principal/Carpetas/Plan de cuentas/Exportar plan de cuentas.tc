@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC donde solo se prueba la funcionalidad de exportar a PDF, EXCEL y WORD.</description>
+   <name>Exportar plan de cuentas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81781c40-9863-462c-a8dd-52d9002a64e6</testCaseGuid>
+</TestCaseEntity>

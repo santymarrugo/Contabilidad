@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance movimientos y saldos una moneda dolares.</description>
+   <name>Balance MYS-1M-D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2fa30d1-3344-4dd3-8764-27531ddeb5eb</testCaseGuid>
+</TestCaseEntity>

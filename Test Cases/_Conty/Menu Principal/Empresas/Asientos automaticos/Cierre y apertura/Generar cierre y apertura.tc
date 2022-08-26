@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test para verificar los datos generados en el proceso de cierre y apertura, en este caso tambien se contempla la validacion de que si el proceso de resultado no se ha corrido se muestre un popup indicando esto.</description>
+   <name>Generar cierre y apertura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57595c07-3cba-4519-8f77-7061110b6ae8</testCaseGuid>
+</TestCaseEntity>

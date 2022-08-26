@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test donde se generara un reporte, y posterior se deberan validar los calculos del mismo y asegurar que se esten haciendo de forma correcta.</description>
+   <name>Balance - Estado de Situacion DOL-EUR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44e36332-2ba5-45c5-968a-29fe42369311</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor estado de cuenta una moneda en pesos.</description>
+   <name>Mayor EDC-1M-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71b14c3e-12c6-4f8a-a730-e66810546f60</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acceso a Configurar Libros</name>
+   <tag>libro</tag>
+   <comment></comment>
+   <testCaseGuid>6ffb0061-35df-429a-871b-897a394a52e2</testCaseGuid>
+</TestCaseEntity>

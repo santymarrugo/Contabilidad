@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonAceptarPopupMensajeNoGeneraDifCam</name>
+   <tag></tag>
+   <elementGuidId>a346990b-f94d-4db2-bf19-fbd7172240a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[@id='ContainerPage']/div[@id='popUpAvisoMensaje']/div[@id='popUpModalMensajeBody']/div[1]/div[3]/div[1]/div[3]/div[1]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//body/div[@id='ContainerPage']/div[@id='popUpAvisoMensaje']/div[@id='popUpModalMensajeBody']/div[1]/div[3]/div[1]/div[3]/div[1]/button[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

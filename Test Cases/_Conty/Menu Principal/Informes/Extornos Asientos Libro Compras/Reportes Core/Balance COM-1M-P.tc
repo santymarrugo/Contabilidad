@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance completo una moneda pesos.</description>
+   <name>Balance COM-1M-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afdb0b8f-91b5-4492-adf9-f983f8667237</testCaseGuid>
+</TestCaseEntity>

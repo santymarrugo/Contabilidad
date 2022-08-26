@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3PuntosResultadoDelEjercicio</name>
+   <tag></tag>
+   <elementGuidId>b351f12f-0173-43d0-ae98-dd852f49e5b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[@id='ContainerPage']/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/div[2]/a[1]/span[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//body/div[@id='ContainerPage']/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/div[2]/a[1]/span[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

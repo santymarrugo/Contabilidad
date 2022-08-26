@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor resumido por dia 1 moneda en pesos.</description>
+   <name>Mayor RPD-1M-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99241801-a8b2-4a5a-84cf-be1c4291fbbe</testCaseGuid>
+</TestCaseEntity>

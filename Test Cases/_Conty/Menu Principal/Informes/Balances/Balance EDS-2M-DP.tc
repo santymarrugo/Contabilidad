@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance estado de situacion dos monedas, dolares y pesos.</description>
+   <name>Balance EDS-2M-DP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84796c26-ccdc-4d0d-8871-f9e9987c77cf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance estado de resultados dos monedas dolares y pesos.</description>
+   <name>Balance EDR-2M-DP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfb1771d-a735-42c5-a77a-1e54e077ad09</testCaseGuid>
+</TestCaseEntity>

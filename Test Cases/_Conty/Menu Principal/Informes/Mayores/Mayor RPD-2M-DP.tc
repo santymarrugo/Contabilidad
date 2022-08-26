@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor resumido por dia 2 monedas en dolares y pesos.</description>
+   <name>Mayor RPD-2M-DP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee72ac2a-022a-4194-82cf-a8776fa66535</testCaseGuid>
+</TestCaseEntity>

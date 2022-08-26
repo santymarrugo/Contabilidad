@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acceso a Importar Archivos</name>
+   <tag>importar</tag>
+   <comment></comment>
+   <testCaseGuid>658513d1-2f65-40e1-bdc3-4ead3efcb2c0</testCaseGuid>
+</TestCaseEntity>

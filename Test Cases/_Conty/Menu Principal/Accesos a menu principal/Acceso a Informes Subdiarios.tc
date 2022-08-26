@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acceso a Informes Subdiarios</name>
+   <tag>subdiarios</tag>
+   <comment></comment>
+   <testCaseGuid>12718203-154e-4e08-a0d5-b68861c31158</testCaseGuid>
+</TestCaseEntity>

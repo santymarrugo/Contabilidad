@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acceso a Clientes y Proveedores</name>
+   <tag>proveedores</tag>
+   <comment></comment>
+   <testCaseGuid>aa3e7fdc-9f19-400a-b2e4-34572b2a889e</testCaseGuid>
+</TestCaseEntity>

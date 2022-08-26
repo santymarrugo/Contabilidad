@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TestCase para asegurar el funcionamiento de botones y demas en la parte de plan de cuentas.
+-Sin crear asientos
+-Sin exportar el plan de cuentas</description>
+   <name>Plan de cuentas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd673e8a-c871-4e06-947e-af8c086f5b35</testCaseGuid>
+</TestCaseEntity>

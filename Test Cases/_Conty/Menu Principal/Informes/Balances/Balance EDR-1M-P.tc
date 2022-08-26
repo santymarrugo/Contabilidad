@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance estado de resultados una moneda pesos.</description>
+   <name>Balance EDR-1M-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c727f495-d57f-44fb-aa96-229f7f937467</testCaseGuid>
+</TestCaseEntity>

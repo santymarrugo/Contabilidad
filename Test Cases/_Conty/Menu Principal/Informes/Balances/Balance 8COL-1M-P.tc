@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Balance a 8 columnas una moneda pesos.</description>
+   <name>Balance 8COL-1M-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f71cdff-700b-4f47-a34a-aacfe8629960</testCaseGuid>
+</TestCaseEntity>

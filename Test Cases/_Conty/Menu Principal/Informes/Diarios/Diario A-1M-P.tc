@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Diario analitico una moneda en pesos.</description>
+   <name>Diario A-1M-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b143887-4d2c-4360-9ffe-bcbe2854a613</testCaseGuid>
+</TestCaseEntity>

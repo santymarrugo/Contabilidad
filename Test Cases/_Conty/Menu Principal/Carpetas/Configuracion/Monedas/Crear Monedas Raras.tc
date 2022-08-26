@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test para la creacion de monedas que no se encuentren en el BCU.</description>
+   <name>Crear Monedas Raras</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff36798e-adf4-472c-ab1f-6606a8dca8bf</testCaseGuid>
+</TestCaseEntity>

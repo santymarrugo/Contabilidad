@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor resumido por dia 1 moneda en pesos.</description>
+   <name>Mayor RPM-1M-P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf59b0f4-c93b-4e4e-812b-d4db02392145</testCaseGuid>
+</TestCaseEntity>

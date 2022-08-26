@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mayor analitico dos monedas en dolares y pesos.</description>
+   <name>Mayor A-2M-DP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25367f79-f85c-421f-ab26-b0de22c8fabc</testCaseGuid>
+</TestCaseEntity>

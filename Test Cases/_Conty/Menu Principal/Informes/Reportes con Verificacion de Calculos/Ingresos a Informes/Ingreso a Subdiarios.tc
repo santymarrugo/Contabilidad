@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ingreso a Subdiarios</name>
+   <tag>subdiario</tag>
+   <comment></comment>
+   <testCaseGuid>098a38dc-f397-4e81-b4e7-147e7d06d360</testCaseGuid>
+</TestCaseEntity>

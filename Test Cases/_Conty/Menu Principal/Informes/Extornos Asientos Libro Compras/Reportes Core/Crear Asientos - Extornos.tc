@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test para la creacion de asientos extornos.</description>
+   <name>Crear Asientos - Extornos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aafa266e-491c-42c1-ace9-1f79487cbe68</testCaseGuid>
+</TestCaseEntity>

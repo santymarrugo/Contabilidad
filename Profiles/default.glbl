@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tester0003@memory.com.uy'</initValue>
+      <name>Usuario</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test1ng147852369'</initValue>
+      <name>Contra</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'memorycontywebtesting.azurewebsites.net'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'def Titulo = WebUI.getWindowTitle()'</initValue>
+      <name>Nombrepagina</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'memorycontywebtesting.azurewebsites.net'</initValue>
+      <name>URL_TST</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'santiago@memory.com.uy'</initValue>
+      <name>Usuario_Santiago_TST</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Memory2035'</initValue>
+      <name>Password_TST_Santiago</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
